@@ -25,6 +25,7 @@ public class FizzBuzzGenerator {
 		return result;
 	}
 
+	
 	public void checkAllSpecialWordsForGivenNumber(int listLimit, int numberFromList) {
 		String localResult = "";
 		for (SpecialWords word : SpecialWords.values()) {

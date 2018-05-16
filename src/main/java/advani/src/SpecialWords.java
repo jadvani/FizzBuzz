@@ -6,7 +6,7 @@ package advani.src;
 
 public enum SpecialWords {
 
-	FIZZ(3), BUZZ(5);
+	FIZZ(3), BUZZ(5), WHIZZ(7);
 
 	private int myWordNumber;
 
